@@ -1,0 +1,5 @@
+{
+'2062362':['广告位1', ':12345/setHttpMock?mockserver=mockServiceRTB&baseurl=http://mg.dz11.com/677702d9-ba08-4365-aba2-3c69c01edacc&servername=getinfo&iscache=1'],
+'2062365':['广告位2', ':12345/setHttpMock?mockserver=mockHttpLiveService&baseurl=http://mg.dz11.com/3bff824b-1a73-4f60-8f43-3395b3728f83&servername=wechatapp&iscache=1'],
+'2062366':['广告位3', ':12345/setHttpMock?mockserver=mockHttpLiveService&baseurl=http://mg.dz11.com/3bff824b-1a73-4f60-8f43-3395b3728f83&servername=wechatapp&iscache=1']
+}

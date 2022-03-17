@@ -1,0 +1,5 @@
+{
+'2062362':['广告位1', 'adb shell am broadcast -a tv.douyu.mock.http --ei mockHttpEnable 1 --es mockHttpUrl http://mg.dz11.com/677702d9-ba08-4365-aba2-3c69c01edacc --es mockServiceRTB getinfo'],
+'2062365':['广告位2', 'adb shell am broadcast -a tv.douyu.mock.http --ei mockHttpEnable 1 --es mockHttpUrl http://mg.dz11.com/677702d9-ba08-4365-aba2-3c69c01edacc --es mockServiceRTB getinfo'],
+'2062366':['广告位3','adb shell am broadcast -a tv.douyu.mock.http --ei mockHttpEnable 1 --es mockHttpUrl http://mg.dz11.com/677702d9-ba08-4365-aba2-3c69c01edacc --es mockServiceRTB getinfo']
+}
